@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzIncoming.iml" filepath="$PROJECT_DIR$/xyzIncoming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzIncoming-platform-jar/xyzIncoming-platform-jar.iml" filepath="$PROJECT_DIR$/xyzIncoming-platform-jar/xyzIncoming-platform-jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzIncoming-share-jar/xyzIncoming-share-jar.iml" filepath="$PROJECT_DIR$/xyzIncoming-share-jar/xyzIncoming-share-jar.iml" />
+    </modules>
+  </component>
+</project>

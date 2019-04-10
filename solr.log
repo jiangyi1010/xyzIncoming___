@@ -1,0 +1,198 @@
+2019-04-10 10:32:43,469 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 10:32:43,606 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 10:32:43,734 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loading suggester index for: shingleBasedSuggestions
+2019-04-10 10:32:44,119 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loaded suggester shingleBasedSuggestions, took 385 ms
+2019-04-10 10:45:30,117 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100000 api/solr/aclchangesets return status:503
+	at org.alfresco.solr.client.SOLRAPIClient.getAclChangeSets(SOLRAPIClient.java:169)
+	at org.alfresco.solr.tracker.AclTracker.checkRepoAndIndexConsistency(AclTracker.java:354)
+	at org.alfresco.solr.tracker.AclTracker.trackRepository(AclTracker.java:320)
+	at org.alfresco.solr.tracker.AclTracker.doTrack(AclTracker.java:111)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 10:45:30,137 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100001 api/solr/aclchangesets return status:503
+	at org.alfresco.solr.client.SOLRAPIClient.getAclChangeSets(SOLRAPIClient.java:169)
+	at org.alfresco.solr.tracker.AclTracker.checkRepoAndIndexConsistency(AclTracker.java:354)
+	at org.alfresco.solr.tracker.AclTracker.trackRepository(AclTracker.java:320)
+	at org.alfresco.solr.tracker.AclTracker.doTrack(AclTracker.java:111)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 10:45:30,185 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100002 GetTransactions return status is 503
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:488)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:392)
+	at org.alfresco.solr.tracker.MetadataTracker.checkRepoAndIndexConsistency(MetadataTracker.java:207)
+	at org.alfresco.solr.tracker.MetadataTracker.trackRepository(MetadataTracker.java:139)
+	at org.alfresco.solr.tracker.MetadataTracker.doTrack(MetadataTracker.java:110)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 10:45:30,768 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+java.lang.IllegalStateException: Connection is not open
+	at org.apache.commons.httpclient.HttpConnection.assertOpen(HttpConnection.java:1277)
+	at org.apache.commons.httpclient.HttpConnection.setSocketTimeout(HttpConnection.java:641)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.setSocketTimeout(MultiThreadedHttpConnectionManager.java:1667)
+	at org.apache.commons.httpclient.HttpMethodBase.writeRequest(HttpMethodBase.java:2104)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1096)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.alfresco.httpclient.AbstractHttpClient.executeMethod(AbstractHttpClient.java:135)
+	at org.alfresco.httpclient.AbstractHttpClient.sendRemoteRequest(AbstractHttpClient.java:111)
+	at org.alfresco.httpclient.HttpClientFactory$DefaultHttpClient.sendRequest(HttpClientFactory.java:430)
+	at org.alfresco.solr.client.SOLRAPIClient.getModelsDiff(SOLRAPIClient.java:1178)
+	at org.alfresco.solr.tracker.ModelTracker.trackModelsImpl(ModelTracker.java:256)
+	at org.alfresco.solr.tracker.ModelTracker.trackModels(ModelTracker.java:228)
+	at org.alfresco.solr.tracker.ModelTracker.doTrack(ModelTracker.java:174)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 10:45:30,781 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.alfresco.httpclient.AbstractHttpClient.executeMethod(AbstractHttpClient.java:135)
+	at org.alfresco.httpclient.AbstractHttpClient.sendRemoteRequest(AbstractHttpClient.java:111)
+	at org.alfresco.httpclient.HttpClientFactory$DefaultHttpClient.sendRequest(HttpClientFactory.java:430)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:485)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:392)
+	at org.alfresco.solr.tracker.MetadataTracker.checkRepoAndIndexConsistency(MetadataTracker.java:207)
+	at org.alfresco.solr.tracker.MetadataTracker.trackRepository(MetadataTracker.java:139)
+	at org.alfresco.solr.tracker.MetadataTracker.doTrack(MetadataTracker.java:110)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 10:53:59,807 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 10:53:59,807 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 10:54:00,054 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loading suggester index for: shingleBasedSuggestions
+2019-04-10 10:54:00,494 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loaded suggester shingleBasedSuggestions, took 432 ms
+2019-04-10 11:06:01,779 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 11:06:01,779 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 11:06:01,980 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loading suggester index for: shingleBasedSuggestions
+2019-04-10 11:06:02,413 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loaded suggester shingleBasedSuggestions, took 418 ms
+2019-04-10 11:16:28,715 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 11:16:28,715 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 11:16:28,981 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loading suggester index for: shingleBasedSuggestions
+2019-04-10 11:16:29,449 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loaded suggester shingleBasedSuggestions, took 467 ms
+2019-04-10 11:18:30,066 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100000 api/solr/aclchangesets return status:503
+	at org.alfresco.solr.client.SOLRAPIClient.getAclChangeSets(SOLRAPIClient.java:169)
+	at org.alfresco.solr.tracker.AclTracker.checkRepoAndIndexConsistency(AclTracker.java:354)
+	at org.alfresco.solr.tracker.AclTracker.trackRepository(AclTracker.java:320)
+	at org.alfresco.solr.tracker.AclTracker.doTrack(AclTracker.java:111)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 11:18:30,121 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100001 GetTransactions return status is 503
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:488)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:392)
+	at org.alfresco.solr.tracker.MetadataTracker.checkRepoAndIndexConsistency(MetadataTracker.java:207)
+	at org.alfresco.solr.tracker.MetadataTracker.trackRepository(MetadataTracker.java:139)
+	at org.alfresco.solr.tracker.MetadataTracker.doTrack(MetadataTracker.java:110)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 11:18:30,120 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+org.alfresco.error.AlfrescoRuntimeException: 03100002 GetModelsDiff return status is 503
+	at org.alfresco.solr.client.SOLRAPIClient.getModelsDiff(SOLRAPIClient.java:1181)
+	at org.alfresco.solr.tracker.ModelTracker.trackModelsImpl(ModelTracker.java:256)
+	at org.alfresco.solr.tracker.ModelTracker.trackModels(ModelTracker.java:228)
+	at org.alfresco.solr.tracker.ModelTracker.doTrack(ModelTracker.java:174)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 11:18:31,277 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.alfresco.httpclient.AbstractHttpClient.executeMethod(AbstractHttpClient.java:135)
+	at org.alfresco.httpclient.AbstractHttpClient.sendRemoteRequest(AbstractHttpClient.java:111)
+	at org.alfresco.httpclient.HttpClientFactory$DefaultHttpClient.sendRequest(HttpClientFactory.java:430)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:485)
+	at org.alfresco.solr.client.SOLRAPIClient.getTransactions(SOLRAPIClient.java:392)
+	at org.alfresco.solr.tracker.MetadataTracker.checkRepoAndIndexConsistency(MetadataTracker.java:207)
+	at org.alfresco.solr.tracker.MetadataTracker.trackRepository(MetadataTracker.java:139)
+	at org.alfresco.solr.tracker.MetadataTracker.doTrack(MetadataTracker.java:110)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 11:18:31,295 ERROR [org.alfresco.solr.tracker.AbstractTracker] Tracking failed
+java.net.SocketException: Socket Closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.alfresco.httpclient.AbstractHttpClient.executeMethod(AbstractHttpClient.java:135)
+	at org.alfresco.httpclient.AbstractHttpClient.sendRemoteRequest(AbstractHttpClient.java:111)
+	at org.alfresco.httpclient.HttpClientFactory$DefaultHttpClient.sendRequest(HttpClientFactory.java:430)
+	at org.alfresco.solr.client.SOLRAPIClient.getAclChangeSets(SOLRAPIClient.java:165)
+	at org.alfresco.solr.tracker.AclTracker.checkRepoAndIndexConsistency(AclTracker.java:354)
+	at org.alfresco.solr.tracker.AclTracker.trackRepository(AclTracker.java:320)
+	at org.alfresco.solr.tracker.AclTracker.doTrack(AclTracker.java:111)
+	at org.alfresco.solr.tracker.AbstractTracker.track(AbstractTracker.java:190)
+	at org.alfresco.solr.tracker.TrackerJob.execute(TrackerJob.java:54)
+	at org.quartz.core.JobRunShell.run(JobRunShell.java:216)
+	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:563)
+2019-04-10 12:08:00,624 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 12:08:00,624 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Initializing SuggestComponent
+2019-04-10 12:08:00,862 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loading suggester index for: shingleBasedSuggestions
+2019-04-10 12:08:01,241 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Loaded suggester shingleBasedSuggestions, took 379 ms
+2019-04-10 13:19:46,682 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Building suggester index for: shingleBasedSuggestions
+2019-04-10 13:19:47,150 INFO  [org.alfresco.solr.component.AsyncBuildSuggestComponent] Built suggester shingleBasedSuggestions, took 462 ms

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="idm:contentModel" xmlns="http://www.alfresco.org/model/dictionary/1.0">
+
+    <!-- Optional meta-data about the model -->
+    <description>Incoming Document Model</description>
+    <author>Yi Jiang</author>
+    <version>1.0</version>
+
+    <imports>
+        <!-- Import Alfresco Dictionary Definitions -->
+        <import uri="http://www.alfresco.org/model/dictionary/1.0" prefix="d"/>
+        <!-- Import Alfresco Content Domain Model Definitions -->
+        <import uri="http://www.alfresco.org/model/content/1.0" prefix="cm"/>
+        <!-- Import Alfresco System Model Definitions -->
+        <import uri="http://www.alfresco.org/model/system/1.0" prefix="sys"/>
+    </imports>
+
+    <!-- Custom namespace for the ACME company -->
+    <namespaces>
+        <namespace uri="http://www.acme.org/model/content/1.0" prefix="idm"/>
+    </namespaces>
+
+    <constraints>
+        <constraint name="idm:programNameList" type="LIST">
+            <parameter name="allowedValues">
+                <list>
+                    <value>Marketing</value>
+                    <value>Sales</value>
+                    <value>Finance</value>
+                </list>
+
+            </parameter>
+        </constraint>
+    </constraints>
+
+    <!--<constraints>-->
+        <!--<constraint name="idm:securityClassificationOptions" type="LIST">-->
+            <!--<parameter name="allowedValues">-->
+                <!--<list>-->
+                    <!--<value></value>-->
+                    <!--&lt;!&ndash; Empty for default search&ndash;&gt;-->
+                    <!--<value>Public</value>-->
+                    <!--<value>Client Confidential</value>-->
+                    <!--<value>Company Confidential</value>-->
+                    <!--<value>Strictly Confidential</value>-->
+                <!--</list>-->
+            <!--</parameter>-->
+        <!--</constraint>-->
+    <!--</constraints>-->
+
+    <!-- ===============================================================================================================
+        Constraints, Types, and Aspects go here...
+        -->
+
+    <types>
+        <!--
+            ACME Enterprise-wide Document root type.
+            All other custom document types would extend this one.
+        -->
+        <type name="idm:document">
+            <title>Incoming Document Type</title>
+            <parent>cm:content</parent>
+            <properties>
+                <property name="idm:programName">
+                    <title>Program Name</title>
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                    <constraints>
+                        <constraint ref="idm:programNameList" />
+                    </constraints>
+                </property>
+                <property name="idm:ingestedBy">
+                    <title>Ingested By</title>
+                    <type>d:text</type>
+                    <mandatory>true</mandatory>
+                </property>
+                <property name="idm:ingestedDate">
+                    <title>Ingested Date</title>
+                    <type>d:date</type>
+                    <mandatory>true</mandatory>
+                </property>
+            </properties>
+            <!--<mandatory-aspects>-->
+                <!--<aspect>idm:securityClassified</aspect>-->
+            <!--</mandatory-aspects>-->
+        </type>
+    </types>
+
+    <aspects>
+        <!-- A document can have security classification applied and
+             faceted search is specifically enabled for best performance and we change
+             default index components.rules.config to not tokenize the value. -->
+        <!--<aspect name="idm:securityClassified">-->
+            <!--<title>IDM Security Classified</title>-->
+            <!--<description>Content has been security classified</description>-->
+            <!--<properties>-->
+                <!--<property name="idm:securityClassification">-->
+                    <!--<type>d:text</type>-->
+                    <!--<index enabled="true">-->
+                        <!--<atomic>true</atomic>-->
+                        <!--<stored>false</stored>-->
+                        <!--<tokenised>false</tokenised>-->
+                    <!--</index>-->
+                    <!--<constraints>-->
+                        <!--<constraint ref="idm:securityClassificationOptions"/>-->
+                    <!--</constraints>-->
+                <!--</property>-->
+            <!--</properties>-->
+        <!--</aspect>-->
+        <aspect name="idm:marketingRelated">
+            <title>Marketing Related</title>
+            <properties>
+                <property name="idm:marketingReference">
+                    <title>Marketing Reference</title>
+                    <type>d:text</type>
+                </property>
+            </properties>
+        </aspect>
+        
+        <aspect name="idm:salesRelated">
+            <title>Sales Related</title>
+            <properties>
+                <property name="idm:salesInvoiceNumber">
+                    <title>Sales Invoice Number</title>
+                    <type>d:text</type>
+                </property>
+            </properties>
+        </aspect>
+        
+        <aspect name="idm:financeRelated">
+            <title>Finance Related</title>
+        </aspect>
+        
+    </aspects>
+
+
+
+</model>

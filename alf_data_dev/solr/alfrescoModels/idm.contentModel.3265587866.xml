@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.alfresco.org/model/dictionary/1.0" name="idm:contentModel">
+    <description>Incoming Document Model</description>
+    <author>Yi Jiang</author>
+    <version>1.0</version>
+    <imports>
+        <import uri="http://www.alfresco.org/model/dictionary/1.0" prefix="d"/>
+        <import uri="http://www.alfresco.org/model/content/1.0" prefix="cm"/>
+        <import uri="http://www.alfresco.org/model/system/1.0" prefix="sys"/>
+    </imports>
+    <namespaces>
+        <namespace uri="http://www.acme.org/model/content/1.0" prefix="idm"/>
+    </namespaces>
+    <data-types/>
+    <constraints>
+        <constraint name="idm:programNameList" type="LIST">
+            <parameter name="allowedValues">
+                <list>
+                    <value>Marketing</value>
+                    <value>Sales</value>
+                    <value>Finance</value>
+                </list>
+            </parameter>
+        </constraint>
+    </constraints>
+    <types>
+        <type name="idm:document">
+            <title>Incoming Document Type</title>
+            <parent>cm:content</parent>
+            <properties>
+                <property name="idm:programName">
+                    <title>Program Name</title>
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                    <constraints>
+                        <constraint name="idm:contentModel_document_programName_anon_0" ref="idm:programNameList"/>
+                    </constraints>
+                </property>
+                <property name="idm:ingestedBy">
+                    <title>Ingested By</title>
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+                <property name="idm:ingestedDate">
+                    <title>Ingested Date</title>
+                    <type>d:date</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </type>
+    </types>
+    <aspects>
+        <aspect name="idm:marketingRelated">
+            <title>Marketing Related</title>
+            <properties>
+                <property name="idm:marketingReference">
+                    <title>Marketing Reference</title>
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </aspect>
+        <aspect name="idm:salesRelated">
+            <title>Sales Related</title>
+            <properties>
+                <property name="idm:salesInvoiceNumber">
+                    <title>Sales Invoice Number</title>
+                    <type>d:text</type>
+                    <mandatory>false</mandatory>
+                    <index enabled="true"/>
+                </property>
+            </properties>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </aspect>
+        <aspect name="idm:financeRelated">
+            <title>Finance Related</title>
+            <properties/>
+            <associations/>
+            <overrides/>
+            <mandatory-aspects/>
+        </aspect>
+    </aspects>
+</model>
