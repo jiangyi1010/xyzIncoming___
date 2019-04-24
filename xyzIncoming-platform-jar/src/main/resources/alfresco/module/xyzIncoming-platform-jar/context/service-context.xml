@@ -46,5 +46,23 @@
         </property>
     </bean>
 
+    <bean id="moveTest" class="com.xyz.action.executer.MoveTest" parent="action-executer">
+        <property name="fileFolderService">
+            <ref bean="FileFolderService"/>
+        </property>
+        <property name="nodeService">
+            <ref bean="NodeService"/>
+        </property>
+        <!--<property name="searchService">-->
+            <!--<ref bean="SearchService"/>-->
+        <!--</property>-->
+        <!--<property name="nodeLocatorService">-->
+            <!--<ref bean="NodeLocatorService"/>-->
+        <!--</property>-->
+        <property name="serviceRegistry">
+            <ref bean="ServiceRegistry"/>
+        </property>
+    </bean>
+
 
 </beans>
