@@ -3,294 +3,223 @@
   <component name="ChangeListManager">
     <list default="true" id="e43fcf53-14f4-45ab-9fe2-ae49e6afbbac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/h2_data/alf_dev.lock.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/h2_data/alf_dev.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/h2_data/alf_dev.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/h2_data/alf_dev.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/h2_data/alf_dev.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/cm.contentmodel.1505615645.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/cm.contentmodel.1505615645.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/cmis.cmismodel.1280296084.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/cmis.cmismodel.1280296084.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/d.dictionary.322997055.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/d.dictionary.322997055.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/idm.contentModel.3265587866.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/idm.contentModel.3265587866.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/sys.systemmodel.26378483.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/alfrescoModels/sys.systemmodel.26378483.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/solrcore.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/solrcore.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/ssl-keystore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/ssl-keystore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/ssl-truststore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/archive-SpacesStore/conf/ssl-truststore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/conf/mime_types.csv" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/conf/mime_types.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/conf/opencmis-qnamefilter-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/conf/opencmis-qnamefilter-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1084.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1085.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1086.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1087.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1088.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1089.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1090.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1091.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1007.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1093.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1128.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/1129.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/32.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/32.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/912.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/912.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/913.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/913.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/914.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/914.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/915.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/915.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/948.gz" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/948.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/956.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/957.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/958.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/959.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/960.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/961.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/962.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/963.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.nvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.nvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene41_0.pos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1e_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1f_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1g_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1h_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1i_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1j_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1k_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1l_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1m_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/948.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/949.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/950.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/951.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/952.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/953.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/955.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/973.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/_DEFAULT_/db/974.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1o_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_1z_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_20_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_21_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_22_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_23_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_24_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_25_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_26_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/_27_Lucene41_0.tip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/segments_1i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.nvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.nvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene41_0.pos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_26_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.nvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.nvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_2.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene41_0.pos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_27_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.nvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.nvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_3.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene41_0.pos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_28_Lucene41_0.tip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.fdt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.fdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.fnm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.nvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.nvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_1.del" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene410_0.dvd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene410_0.dvm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene41_0.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene41_0.pos" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene41_0.tim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2a_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/archive/SpacesStore/index/segments_21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_5.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2i_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2v_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2w_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_3.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2x_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_4.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_2y_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_30_Lucene41_0.tip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.nvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.nvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene410_0.dvd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene410_0.dvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene41_0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene41_0.pos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene41_0.tim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/_32_Lucene41_0.tip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/segments_1x" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/log4j-solr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/log4j-solr.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/solr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/solr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/elevate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/elevate.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_ca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_ca.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_fr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_fr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_it.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/contractions_it.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/hyphenations_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/hyphenations_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stemdict_nl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stemdict_nl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stoptags_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stoptags_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ar.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_bg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_bg.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ca.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ckb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ckb.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_cz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_cz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_da.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_da.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_de.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_de.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_el.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_el.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_en.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_es.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_es.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_eu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_eu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_fr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_gl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_gl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_hy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_id.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_id.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_it.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_it.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_lv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_lv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_nl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_nl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_no.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_pt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_pt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ro.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ru.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_ru.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_sv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_sv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_th.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_th.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_tr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/stopwords_tr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/userdict_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/lang/userdict_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/protwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/protwords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/schema.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/solrconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/solrconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/solrcore.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/solrcore.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/spellings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/spellings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/ssl-keystore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/ssl-keystore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/ssl-truststore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/ssl-truststore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/stopwords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/synonyms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/templates/test/conf/synonyms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/elevate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/elevate.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_ca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_ca.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_fr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_fr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_it.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/contractions_it.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/hyphenations_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/hyphenations_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stemdict_nl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stemdict_nl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stoptags_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stoptags_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ar.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_bg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_bg.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ca.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ca.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ckb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ckb.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_cz.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_cz.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_da.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_da.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_de.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_de.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_el.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_el.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_en.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_en.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_es.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_es.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_eu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_eu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_fr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ga.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_gl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_gl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hu.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_hy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_id.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_id.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_it.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_it.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_lv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_lv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_nl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_nl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_no.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_no.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_pt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_pt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ro.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ro.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ru.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_ru.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_sv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_sv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_th.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_th.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_tr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/stopwords_tr.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/userdict_ja.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/lang/userdict_ja.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/protwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/protwords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/schema.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/schema.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/solrconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/solrconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/solrcore.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/solrcore.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/spellings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/spellings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/ssl-keystore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/ssl-keystore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/ssl-truststore-passwords.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/ssl-truststore-passwords.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/stopwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/stopwords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/synonyms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/conf/synonyms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/core.properties" beforeDir="false" afterPath="$PROJECT_DIR$/alf_data_dev/solr/workspace-SpacesStore/core.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alf_data_dev/solr/index/workspace/SpacesStore/index/segments_2m" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alfresco.log" beforeDir="false" afterPath="$PROJECT_DIR$/alfresco.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/share.log" beforeDir="false" afterPath="$PROJECT_DIR$/share.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solr.log" beforeDir="false" afterPath="$PROJECT_DIR$/solr.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/xyzActions.properties" beforeDir="false" afterPath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/xyzActions.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/MoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/MoveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/xyzIncoming-share-jar/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -307,47 +236,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/incoming-documents-model.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+            <state relative-caret-position="-782">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/MoveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            <state relative-caret-position="612">
+              <caret line="138" selection-start-line="138" selection-end-line="138" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-data-model/6.8/alfresco-data-model-6.8.jar!/org/alfresco/service/cmr/search/SearchService.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/resources.components.xyzIncoming.rules.config/rule-config-action-custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/bootstrap-context.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-129">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -355,20 +257,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+            <state relative-caret-position="449">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/move-test-action-extension.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/myMove.java">
+        <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/move-test-button.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -391,6 +308,7 @@
       <find>condition=&quot;cm:con</find>
       <find>script</find>
       <find>pooled</find>
+      <find>appearance</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\yi.jiang\SDK_HOME\xyzIncoming\xyzIncoming-share-jar\src\main\resources</dir>
@@ -409,7 +327,6 @@
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/content-model.properties" />
         <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/xyzIncoming-share-jar.properties" />
         <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/extension.scripts/selectMove.js" />
-        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/extension/templates/webscripts/alfresco/tutorials/javadir.get.desc.xml" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/extension/templates/webscripts/alfresco/tutorials/javadir.get.html.ftl" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/module.properties" />
@@ -425,9 +342,15 @@
         <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/share-config-custom.xml" />
         <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/idmModel.properties" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/xyzActions.properties" />
-        <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/bootstrap-context.xml" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/add-create-menuitem-doclib-extension-modules.xml" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/create-idm.properties" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/move-test-button.properties" />
+        <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/bootstrap-context.xml" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml" />
         <option value="$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/MoveTest.java" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/resources/xyzIncoming-share-jar/components/documentlibrary/move-action.js" />
+        <option value="$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/move-test-action-extension.xml" />
       </list>
     </option>
   </component>
@@ -452,18 +375,207 @@
               <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
               <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xyz" type="462c0819:PsiDirectoryNode" />
+              <item name="executer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-platform-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="alfresco" type="462c0819:PsiDirectoryNode" />
+              <item name="web-extension" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources.components.xyzIncoming.rules.config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xyzIncoming___" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xyzIncoming___" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="xyzIncoming-share-jar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556135529052" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556213275456" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -565,17 +677,18 @@
       <workItem from="1554490415570" duration="3863000" />
       <workItem from="1554733161273" duration="17352000" />
       <workItem from="1554816457775" duration="32712000" />
-      <workItem from="1556124404025" duration="10886000" />
+      <workItem from="1556124404025" duration="11481000" />
+      <workItem from="1556199035602" duration="10331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85482000" />
+    <option name="totallyTimeSpent" value="96408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -617,19 +730,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/alfresco.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/incoming-doc-model.xml" />
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/platformsample/actions/moveToFolder.java" />
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/platformsample/moveToFolder.java" />
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/platformsample/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -727,34 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/content-model.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/content-model.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/share-config-custom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="90" column="91" selection-start-line="90" selection-start-column="91" selection-end-line="90" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/extension/templates/webscripts/alfresco/tutorials/helloworld.get.html.ftl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -789,33 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/xyzIncoming-share-jar-example-widgets.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/idmModel.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/resources.components.xyzIncoming.rules.config/rule-config-action-custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/myMove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-repository/5.2.f/alfresco-repository-5.2.f-sources.jar!/org/alfresco/repo/nodelocator/NodeLocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -837,27 +882,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/incoming-documents-model.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-data-model/6.8/alfresco-data-model-6.8.jar!/org/alfresco/service/cmr/search/SearchService.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-repository/5.2.f/alfresco-repository-5.2.f-sources.jar!/org/alfresco/repo/action/ActionServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -865,20 +889,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-data-model/6.8/alfresco-data-model-6.8.jar!/org/alfresco/service/cmr/search/SearchService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/myMove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/xyzIncoming-share-jar-example-widgets.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/idmModel.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/alfresco/alfresco-repository/5.2.f/alfresco-repository-5.2.f-sources.jar!/org/alfresco/repo/action/executer/ActionExecuterAbstractBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="273" selection-start-line="273" selection-end-line="273" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/content-model.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/create-idm.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/add-create-menuitem-doclib-extension-modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="86" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="86" />
+          <folding>
+            <element signature="e#641#646#0" expanded="true" />
+            <element signature="e#666#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/messages/move-test-button.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/messages/content-model.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/model/incoming-documents-model.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/resources.components.xyzIncoming.rules.config/rule-config-action-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/share-config-custom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/bootstrap-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="432">
+          <caret line="41" column="88" selection-start-line="41" selection-start-column="88" selection-end-line="41" selection-end-column="88" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/java/com/xyz/action/executer/MoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="612">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/xyzIncoming-share-jar-slingshot-application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/META-INF/resources/xyzIncoming-share-jar/components/documentlibrary/move-action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-start-column="3" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-platform-jar/src/main/resources/alfresco/module/xyzIncoming-platform-jar/context/service-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzIncoming-share-jar/src/main/resources/alfresco/web-extension/site-data/extensions/move-test-action-extension.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="86" selection-start-line="27" selection-start-column="86" selection-end-line="27" selection-end-column="86" />
         </state>
       </provider>
     </entry>

@@ -19,8 +19,17 @@
       <property name="resourceBundles">
          <list>
             <value>alfresco.web-extension.messages.idmModel</value>
+            <value>alfresco.web-extension.messages.create-idm</value>
+            <value>alfresco.web-extension.messages.move-test-button</value>
          </list>
       </property>
    </bean>
+
+   <!--<bean id="com.xyz.xyzIncoming-share-jar.add-create-menuitem.resources"-->
+         <!--class="org.springframework.extensions.surf.util.ResourceBundleBootstrapComponent">-->
+      <!--<property name="resourceBundles">-->
+         <!--<list></list>-->
+      <!--</property>-->
+   <!--</bean>-->
 
 </beans>

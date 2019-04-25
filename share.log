@@ -1,495 +1,66 @@
-2019-04-10 10:32:22,589 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-10 10:32:22,595 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+2019-04-25 10:01:49,819 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-04-25 10:01:49,821 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
 
-2019-04-10 10:32:23,144 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:32:23,149 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:32:23,152 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:32:23,154 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:32:27,916 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-10 10:32:27,917 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-10 10:32:27,917 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-10 10:32:28,008 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4813.195ms)
-2019-04-10 10:32:28,011 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:32:28,013 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:33:20,889 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-6] Successfully retrieved license information from Alfresco.
-2019-04-10 10:34:09,744 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-8] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-10 10:39:19,938 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-13] Successfully retrieved IMAP server status from Alfresco: disabled
-2019-04-10 10:39:27,263 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-13] Successfully retrieved quick share information from Alfresco.
-2019-04-10 10:39:27,334 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-13] Successfully retrieved mimetypes information from Alfresco.
-2019-04-10 10:53:39,230 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-10 10:53:39,232 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+2019-04-25 10:01:50,278 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 10:01:50,278 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 10:01:50,278 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 10:01:50,294 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 10:01:54,171 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-04-25 10:01:54,171 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-04-25 10:01:54,171 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-04-25 10:01:54,256 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3948.2437ms)
+2019-04-25 10:01:54,271 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 10:01:54,271 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 10:02:31,415 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-8] Successfully retrieved license information from Alfresco.
+2019-04-25 10:03:55,329 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-7] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-04-25 10:05:02,310 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2019-04-25 10:07:09,238 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-11] Successfully retrieved quick share information from Alfresco.
+2019-04-25 10:07:09,298 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-11] Successfully retrieved mimetypes information from Alfresco.
+2019-04-25 11:18:17,158 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-04-25 11:18:17,159 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
 
-2019-04-10 10:53:39,894 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:53:39,900 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:53:39,904 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:53:39,906 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:53:44,828 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-10 10:53:44,829 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-10 10:53:44,829 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-10 10:53:44,939 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 5001.906ms)
-2019-04-10 10:53:44,942 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 10:53:44,943 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 10:54:20,645 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-1] Successfully retrieved license information from Alfresco.
-2019-04-10 10:55:06,032 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-6] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-10 11:05:44,280 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-10 11:05:44,282 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+2019-04-25 11:18:17,705 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:18:17,709 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 11:18:17,710 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:18:17,712 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 11:18:21,256 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-04-25 11:18:21,257 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-04-25 11:18:21,257 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-04-25 11:18:21,376 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3641.5576ms)
+2019-04-25 11:18:21,379 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:18:21,381 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 11:20:17,101 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-3] Successfully retrieved license information from Alfresco.
+2019-04-25 11:21:00,917 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-5] Successfully retrieved Data Dictionary from Alfresco.
+2019-04-25 11:52:41,755 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-04-25 11:52:41,755 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
 
-2019-04-10 11:05:44,847 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:05:44,847 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:05:44,847 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:05:44,855 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:05:49,374 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-10 11:05:49,374 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-10 11:05:49,374 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-10 11:05:49,478 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4598.747ms)
-2019-04-10 11:05:49,478 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:05:49,478 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:06:12,219 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-1] Successfully retrieved license information from Alfresco.
-2019-04-10 11:06:54,839 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-8] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-10 11:16:07,517 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-10 11:16:07,520 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
+2019-04-25 11:52:42,228 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:52:42,235 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 11:52:42,235 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:52:42,235 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 11:52:45,722 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-04-25 11:52:45,722 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-04-25 11:52:45,722 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-04-25 11:52:45,813 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3553.069ms)
+2019-04-25 11:52:45,813 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 11:52:45,813 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 12:39:36,344 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-5] Successfully retrieved license information from Alfresco.
+2019-04-25 12:40:16,215 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-2] Successfully retrieved Data Dictionary from Alfresco.
+2019-04-25 13:00:51,295 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
+2019-04-25 13:00:51,297 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
 
-2019-04-10 11:16:08,181 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:16:08,186 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:16:08,188 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:16:08,190 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:16:13,719 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-10 11:16:13,720 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-10 11:16:13,720 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-10 11:16:13,851 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 5626.81ms)
-2019-04-10 11:16:13,855 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 11:16:13,857 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 11:16:53,222 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-2] Successfully retrieved license information from Alfresco.
-2019-04-10 11:18:16,271 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-2] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-10 12:07:43,044 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-10 12:07:43,046 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-10 12:07:43,568 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 12:07:43,568 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 12:07:43,568 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 12:07:43,568 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 12:07:48,063 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-10 12:07:48,063 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-10 12:07:48,063 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-10 12:07:48,163 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4566.771ms)
-2019-04-10 12:07:48,163 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-10 12:07:48,163 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-10 12:32:03,067 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-1] Successfully retrieved license information from Alfresco.
-2019-04-10 12:32:50,153 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-6] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-10 13:19:32,742 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-34] Successfully retrieved IMAP server status from Alfresco: disabled
-2019-04-10 13:19:40,243 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-34] Successfully retrieved quick share information from Alfresco.
-2019-04-10 13:19:40,317 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-34] Successfully retrieved mimetypes information from Alfresco.
-2019-04-24 13:11:40,486 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-24 13:11:40,488 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-24 13:11:41,022 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 13:11:41,032 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 13:11:41,032 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 13:11:41,032 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 13:11:44,609 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-24 13:11:44,609 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-24 13:11:44,609 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-24 13:11:44,709 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3658.8047ms)
-2019-04-24 13:11:44,724 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 13:11:44,724 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 13:12:09,079 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-6] Successfully retrieved license information from Alfresco.
-2019-04-24 13:13:57,167 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-18] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-24 13:16:30,784 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-9] Successfully retrieved IMAP server status from Alfresco: disabled
-2019-04-24 13:16:34,950 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-9] Successfully retrieved quick share information from Alfresco.
-2019-04-24 13:16:34,992 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-9] Successfully retrieved mimetypes information from Alfresco.
-2019-04-24 17:30:59,578 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-24 17:30:59,586 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-24 17:31:00,214 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 17:31:00,230 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 17:31:00,230 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 17:31:00,230 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 17:31:04,809 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-24 17:31:04,809 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-24 17:31:04,809 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-24 17:31:04,910 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4658.0312ms)
-2019-04-24 17:31:04,910 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 17:31:04,910 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 17:34:17,102 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-8] Successfully retrieved license information from Alfresco.
-2019-04-24 17:35:07,843 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-5] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-24 17:37:26,291 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-5] Exception calling (POST) http://localhost:8080/alfresco/s/api/node/workspace/SpacesStore/7c0c4f36-d303-45a8-b478-7c170513de90/formprocessor?alf_ticket=TICKET_8ac7cffe0296557da4efcc998ae015b8a715031d
-2019-04-24 17:37:26,396 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-5] Error status 408 Read timed out
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
-	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
-	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
-	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
-	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
-	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
-	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
-	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
-	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
-	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
-	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
-	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
-	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.service(RemoteClient.java:1164)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.call(RemoteClient.java:801)
-	at org.springframework.extensions.webscripts.connector.HttpConnector.call(HttpConnector.java:143)
-	at org.springframework.extensions.webscripts.connector.AuthenticatingConnector.call(AuthenticatingConnector.java:293)
-	at org.springframework.extensions.webscripts.servlet.mvc.EndPointProxyController.handleRequestInternal(EndPointProxyController.java:328)
-	at org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:153)
-	at org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:48)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:867)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:951)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:853)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:688)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:827)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:770)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
-	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
-	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
-	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
-	at org.tuckey.web.filters.urlrewrite.NormalRewrittenUrl.doRewrite(NormalRewrittenUrl.java:213)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:171)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.java:177)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.CSRFFilter.doFilter(CSRFFilter.java:322)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:474)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:443)
-	at org.springframework.extensions.webscripts.servlet.BeanProxyFilter.doFilter(BeanProxyFilter.java:80)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:81)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
-	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
-	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
-	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
-	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2019-04-24 17:44:32,987 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-4] Exception calling (POST) http://localhost:8080/alfresco/s/api/node/workspace/SpacesStore/7c0c4f36-d303-45a8-b478-7c170513de90/formprocessor?alf_ticket=TICKET_8ac7cffe0296557da4efcc998ae015b8a715031d
-2019-04-24 17:44:35,710 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-4] Error status 408 Read timed out
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
-	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
-	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
-	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
-	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
-	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
-	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
-	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
-	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
-	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
-	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
-	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
-	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.service(RemoteClient.java:1164)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.call(RemoteClient.java:801)
-	at org.springframework.extensions.webscripts.connector.HttpConnector.call(HttpConnector.java:143)
-	at org.springframework.extensions.webscripts.connector.AuthenticatingConnector.call(AuthenticatingConnector.java:293)
-	at org.springframework.extensions.webscripts.servlet.mvc.EndPointProxyController.handleRequestInternal(EndPointProxyController.java:328)
-	at org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:153)
-	at org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:48)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:867)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:951)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:853)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:688)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:827)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:770)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
-	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
-	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
-	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
-	at org.tuckey.web.filters.urlrewrite.NormalRewrittenUrl.doRewrite(NormalRewrittenUrl.java:213)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:171)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.java:177)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.CSRFFilter.doFilter(CSRFFilter.java:322)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:474)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:443)
-	at org.springframework.extensions.webscripts.servlet.BeanProxyFilter.doFilter(BeanProxyFilter.java:80)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:81)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
-	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
-	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
-	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
-	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2019-04-24 18:29:15,435 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-24 18:29:15,438 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-24 18:29:16,150 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 18:29:16,155 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 18:29:16,157 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 18:29:16,158 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 18:29:21,638 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-24 18:29:21,638 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-24 18:29:21,638 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-24 18:29:21,754 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 5569.4287ms)
-2019-04-24 18:29:21,757 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 18:29:21,758 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:07:40,345 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-24 19:07:40,347 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-24 19:07:40,962 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:07:40,967 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:07:40,968 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:07:40,969 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:07:46,158 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-24 19:07:46,158 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-24 19:07:46,159 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-24 19:07:46,275 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 5288.6016ms)
-2019-04-24 19:07:46,278 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:07:46,279 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:08:31,969 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-2] Successfully retrieved license information from Alfresco.
-2019-04-24 19:10:02,946 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-13] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-24 19:12:15,321 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-13] Exception calling (POST) http://localhost:8080/alfresco/s/api/node/workspace/SpacesStore/7c0c4f36-d303-45a8-b478-7c170513de90/formprocessor?alf_ticket=TICKET_9478ab9cfbcf5983df0758c24a1eaf731b277878
-2019-04-24 19:12:44,132 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-13] Error status 408 Read timed out
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
-	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
-	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
-	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
-	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
-	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
-	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
-	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
-	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
-	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
-	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
-	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
-	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.service(RemoteClient.java:1164)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.call(RemoteClient.java:801)
-	at org.springframework.extensions.webscripts.connector.HttpConnector.call(HttpConnector.java:143)
-	at org.springframework.extensions.webscripts.connector.AuthenticatingConnector.call(AuthenticatingConnector.java:293)
-	at org.springframework.extensions.webscripts.servlet.mvc.EndPointProxyController.handleRequestInternal(EndPointProxyController.java:328)
-	at org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:153)
-	at org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:48)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:867)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:951)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:853)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:688)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:827)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:770)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
-	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
-	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
-	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
-	at org.tuckey.web.filters.urlrewrite.NormalRewrittenUrl.doRewrite(NormalRewrittenUrl.java:213)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:171)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.java:177)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.CSRFFilter.doFilter(CSRFFilter.java:322)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:474)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:443)
-	at org.springframework.extensions.webscripts.servlet.BeanProxyFilter.doFilter(BeanProxyFilter.java:80)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:81)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
-	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
-	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
-	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
-	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2019-04-24 19:13:41,020 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-2] Successfully retrieved IMAP server status from Alfresco: disabled
-2019-04-24 19:14:03,076 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-22] Successfully retrieved quick share information from Alfresco.
-2019-04-24 19:14:03,157 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-22] Successfully retrieved mimetypes information from Alfresco.
-2019-04-24 19:35:10,566 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 1 module package(s)
-2019-04-24 19:35:10,568 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Alfresco Share JAR Module, 1.0-SNAPSHOT, Sample Share JAR Module (to be included in the share.war) - part of AIO - SDK 3
-
-2019-04-24 19:35:11,159 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:35:11,162 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:35:11,163 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:35:11,165 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:35:15,460 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
-2019-04-24 19:35:15,460 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
-2019-04-24 19:35:15,460 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
-2019-04-24 19:35:15,562 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4380.024ms)
-2019-04-24 19:35:15,564 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
-2019-04-24 19:35:15,566 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
-2019-04-24 19:37:20,899 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-4] Successfully retrieved license information from Alfresco.
-2019-04-24 19:38:05,694 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-8] Successfully retrieved Data Dictionary from Alfresco.
-2019-04-24 19:38:32,790 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-9] Successfully retrieved IMAP server status from Alfresco: disabled
-2019-04-24 19:38:37,699 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-9] Successfully retrieved quick share information from Alfresco.
-2019-04-24 19:38:37,796 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-9] Successfully retrieved mimetypes information from Alfresco.
-2019-04-24 19:47:31,670 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-29] Exception calling (POST) http://localhost:8080/alfresco/s/api/node/workspace/SpacesStore/371deff8-f35b-43ca-a28c-708017248da6/formprocessor?alf_ticket=TICKET_8cccfa1af17a6d974fe686b48eeac9b66a8d277d
-2019-04-24 19:47:31,757 INFO  [org.springframework.extensions.webscripts.connector.RemoteClient] [http-bio-8080-exec-29] Error status 408 Read timed out
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
-	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
-	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
-	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
-	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
-	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
-	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167)
-	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
-	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
-	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271)
-	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
-	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
-	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
-	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:107)
-	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.service(RemoteClient.java:1164)
-	at org.springframework.extensions.webscripts.connector.RemoteClient.call(RemoteClient.java:801)
-	at org.springframework.extensions.webscripts.connector.HttpConnector.call(HttpConnector.java:143)
-	at org.springframework.extensions.webscripts.connector.AuthenticatingConnector.call(AuthenticatingConnector.java:293)
-	at org.springframework.extensions.webscripts.servlet.mvc.EndPointProxyController.handleRequestInternal(EndPointProxyController.java:328)
-	at org.springframework.web.servlet.mvc.AbstractController.handleRequest(AbstractController.java:153)
-	at org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter.handle(SimpleControllerHandlerAdapter.java:48)
-	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
-	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:867)
-	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:951)
-	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:853)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:688)
-	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:827)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:770)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
-	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
-	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:412)
-	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
-	at org.tuckey.web.filters.urlrewrite.NormalRewrittenUrl.doRewrite(NormalRewrittenUrl.java:213)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:171)
-	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
-	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.SecurityHeadersFilter.doFilter(SecurityHeadersFilter.java:177)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.springframework.extensions.webscripts.servlet.CSRFFilter.doFilter(CSRFFilter.java:322)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:474)
-	at org.alfresco.web.site.servlet.SSOAuthenticationFilter.doFilter(SSOAuthenticationFilter.java:443)
-	at org.springframework.extensions.webscripts.servlet.BeanProxyFilter.doFilter(BeanProxyFilter.java:80)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.alfresco.web.site.servlet.MTAuthenticationFilter.doFilter(MTAuthenticationFilter.java:81)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
-	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
-	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
-	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
-	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:312)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
+2019-04-25 13:00:51,889 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 13:00:51,901 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 13:00:51,901 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 13:00:51,909 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 13:00:55,917 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 393 Web Scripts (+0 failed), 411 URLs
+2019-04-25 13:00:55,917 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2019-04-25 13:00:55,917 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2019-04-25 13:00:55,997 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4031.1494ms)
+2019-04-25 13:00:55,997 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2019-04-25 13:00:55,997 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2019-04-25 13:05:01,845 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8080-exec-1] Successfully retrieved license information from Alfresco.
+2019-04-25 13:05:40,525 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8080-exec-9] Successfully retrieved Data Dictionary from Alfresco.
+2019-04-25 13:06:44,126 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8080-exec-11] Successfully retrieved IMAP server status from Alfresco: disabled
+2019-04-25 13:06:48,524 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8080-exec-11] Successfully retrieved quick share information from Alfresco.
+2019-04-25 13:06:48,589 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8080-exec-11] Successfully retrieved mimetypes information from Alfresco.

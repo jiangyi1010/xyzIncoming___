@@ -1,0 +1,38 @@
+<extension>
+    <modules>
+        <module>
+            <id>Move Idm Document to Analysed Folder</id>
+            <version>1.0</version>
+            <auto-deploy>true</auto-deploy>
+            <configurations>
+                <config evaluator="string-compare" condition="DocLibActions">
+                    <actions>
+                        <action id="com.xyz.action.movetest.jsButton"
+                                icon="document-move-to"
+                                type="javascript"
+                                label="com.xyz.action.movetest.label">
+                            <param name="function">onActionSimpleRepoAction</param>
+                            <param name="action">moveTest</param>
+                            <!--<param name="itemKind">action</param>-->
+                            <!--<param name="itemId">send-as-email</param> &lt;!&ndash; Repository action id = Spring Bean id &ndash;&gt;-->
+                            <!--<param name="mode">create</param>-->
+                            <!--<param name="destination">{node.nodeRef}</param>-->
+                            <param name="successMessage">com.xyz.action.movetest.msg.success</param>
+                            <param name="failureMessage">com.xyz.action.movetest.msg.failure</param>
+                            <!--<evaluator negate="true">alfresco.tutorials.evaluator.isEmailed</evaluator>-->
+                        </action>
+                    </actions>
+
+                    <actionGroups>
+                        <actionGroup id="document-browse">
+                            <action index="400" id="com.xyz.action.movetest.jsButton" />
+                        </actionGroup>
+                        <actionGroup id="document-details">
+                            <action index="400" id="com.xyz.action.movetest.jsButton" />
+                        </actionGroup>
+                    </actionGroups>
+                </config>
+            </configurations>
+        </module>
+    </modules>
+</extension>

@@ -121,30 +121,6 @@ public class MoveTest extends ActionExecuterAbstractBase
             else{
                 return;
             }
-//            else if(testName.equals("Sales")){
-//                ResultSet results02 = searchService.query(storeRef, SearchService.LANGUAGE_LUCENE,  "PATH:\"" + "/app:company_home/cm:Incoming/cm:Sales" + "\"");
-//                NodeRef nodeRef02 = results02.getNodeRef(0);
-//                testAction.setParameterValue(MoveTest.PARAM_DESTINATION_FOLDER, nodeRef02);
-//            }
-//            else{
-//                ResultSet results03 = searchService.query(storeRef, SearchService.LANGUAGE_LUCENE,  "PATH:\"" + "/app:company_home/cm:Incoming/cm:Finance" + "\"");
-//                NodeRef nodeRef03 = results03.getNodeRef(0);
-//                testAction.setParameterValue(MoveTest.PARAM_DESTINATION_FOLDER, nodeRef03);
-//            }
-//            if(testName.equals("Marketing")){
-//                NodeRef nodeRef01 = nodeLocatorService.getNode("Marketing", null,null);
-//                testAction.setParameterValue(MoveTest.PARAM_DESTINATION_FOLDER, nodeRef01);
-//            }
-//            else if(testName.equals("Finance")){
-//                NodeRef nodeRef01 = nodeLocatorService.getNode("Finance", null,null);
-//                testAction.setParameterValue(MoveTest.PARAM_DESTINATION_FOLDER, nodeRef01);
-//            }
-//            else{
-//                NodeRef nodeRef01 = nodeLocatorService.getNode("Sales", null,null);
-//                testAction.setParameterValue(MoveTest.PARAM_DESTINATION_FOLDER, nodeRef01);
-//
-//            }
-//
 
             NodeRef destinationParent = (NodeRef) testAction.getParameterValue(PARAM_DESTINATION_FOLDER);
 

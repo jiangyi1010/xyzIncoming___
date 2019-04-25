@@ -1,0 +1,67 @@
+<extension>
+    <modules>
+        <!-- This module is dependent on the custom content model setup in the repo-amp module -->
+        <module>
+            <id>Add a new menu item to Create... menu in DocLib</id>
+            <version>1.0</version>
+            <auto-deploy>true</auto-deploy>
+            <configurations>
+                <config evaluator="string-compare" condition="DocumentLibrary">
+                    <create-content>
+                        <content id="idm-modle-file" label="create.idm.menu.item.label" icon="text" type="pagelink">
+                            <param name="page">create-content?destination={nodeRef}&amp;itemId=idm:document&amp;mimeType=text/plain</param>
+                        </content>
+                    </create-content>
+                </config>
+
+                <config evaluator="model-type" condition="idm:document">
+                    <forms>
+                        <form>
+                            <field-visibility>
+                                <show id="cm:name"/>
+                                <show id="cm:content" />
+                                <show id="cm:title" force="true"/>
+                                <show id="cm:description" />
+                                <!--<show id="acme:documentId" force="true"/>-->
+                                <!--<show id="mimetype"/>-->
+                                <!--<show id="app:editInline" force="true"/>-->
+                                <show id="idm:programName" force="true"/>
+                                <show id="idm:ingestedBy" force="true"/>
+                                <show id="idm:ingestedDate" force="true"/>
+                            </field-visibility>
+                            <appearance>
+                                <field id="cm:name">
+                                    <control>
+                                        <control-param name="maxLength">255</control-param>
+                                    </control>
+                                </field>
+                                <field id="cm:title">
+                                    <control template="/org/alfresco/components/form/controls/textfield.ftl"/>
+                                </field>
+                                <field id="cm:content" label-id="">
+                                    <control>
+                                        <control-param name="editorAppearance">explorer</control-param>
+                                    </control>
+                                </field>
+                                <!--<field id="acme:documentId">-->
+                                    <!--<control template="/org/alfresco/components/form/controls/textfield.ftl"/>-->
+                                <!--</field>-->
+                                <!--<field id="mimetype">-->
+                                    <!--<control template="/org/alfresco/components/form/controls/hidden.ftl">-->
+                                        <!--<control-param name="contextProperty">mimeType</control-param>-->
+                                    <!--</control>-->
+                                <!--</field>-->
+                                <!--<field id="app:editInline">-->
+                                    <!--<control template="/org/alfresco/components/form/controls/hidden.ftl">-->
+                                        <!--<control-param name="contextProperty">editInline</control-param>-->
+                                    <!--</control>-->
+                                <!--</field>-->
+
+                            </appearance>
+                        </form>
+                    </forms>
+                </config>
+            </configurations>
+        </module>
+    </modules>
+</extension>
